@@ -6,6 +6,8 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ---
 
 ### This is a header
