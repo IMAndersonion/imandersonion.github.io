@@ -8,6 +8,9 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 [![Tableau Vivant - Power Rangers](https://img.https://www.youtube.com/watch?v=7k8Z1vl6tEE.jpg)](https://www.youtube.com/watch?v=7k8Z1vl6tEE "Tableau Vivant - Power Rangers")
 
+project 2: [![Prosthetic/Restraint](https://i9.ytimg.com/vi/QH6tchHyUH0/mq1.jpg?sqp=CJyt8pkG&rs=AOn4CLDJwYcyYkP_BgXnCFuZJrOyIolEKg)](https://youtu.be/QH6tchHyUH0 "Restraint/Prosthetic 4D Project")
+
+
 ---
 
 ### This is a header
